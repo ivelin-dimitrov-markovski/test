@@ -1,4 +1,9 @@
+int func(int a){
+a++;
+return a;
+}
+
 void main() {
 int a;
-a++;
+cout(func(a));
 }
